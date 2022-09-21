@@ -1,5 +1,5 @@
 # Monitoramento com Prometheus e Grafana por meio de Exporters
-## Author: Samuel Gonçalves Pereira
+## Author deste projeto: Samuel Gonçalves Pereira
 ### Arquivo docker-compose.yaml
 ##### Services:
 - reverse_proxy - nginx como proxy reverso para publicação por meio do dominio escolhido.
